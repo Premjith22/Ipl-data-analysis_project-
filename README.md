@@ -36,6 +36,8 @@ The project focuses on:
 Dataset used:
 - matches.csv
 - deliveries.csv
+- ## Dataset Source
+https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020
 
 ---
 
